@@ -135,7 +135,7 @@ const Register = () => {
               <input
                 type="tel"
                 name="telefono"
-                placeholder="+54 9 11 ..."
+                placeholder="+57 310 123 ..."
                 value={formData.telefono}
                 onChange={handleChange}
                 required
